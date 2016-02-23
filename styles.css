@@ -1,0 +1,8 @@
+/** add additional CSS rules to recreate http://bit.ly/adda-keepcalm **/
+body {
+  text-transform: uppercase;
+}
+
+h1 {
+  font-weight: normal;
+}
